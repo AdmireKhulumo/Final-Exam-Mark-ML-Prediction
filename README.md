@@ -1,5 +1,5 @@
 # Final Mark ML Prediction
-#### (Fullstack ML Project)
+#### *Fullstack ML Project*
  
  
 ## Description
