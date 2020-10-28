@@ -9,4 +9,4 @@ This is a fullstack machie learning project consisting of:
 
 * **Flask API** - A python backend server app with an API route that accepts an array input then uses a pre-defned prediction model to return a single final exam mark.
 
-* **React Client** - This client consumes the Flask API by sending it some inputs from the user then receiving an estimate of that student's final mark according to the parameters supplied.
+* **React Client Web App** - This client consumes the Flask API by sending it some inputs from the user then receiving an estimate of that student's final mark according to the parameters supplied.
