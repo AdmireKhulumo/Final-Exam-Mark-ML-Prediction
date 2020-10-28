@@ -13,4 +13,4 @@ This is a fullstack machie learning project consisting of:
 
 
 ## Future Improvements
-I wish to produce the same kind of application using real data from a local university. Such a platform could be used byschool councillors to predict a student's final mark and offer councelling or helpbefore it is too late. The only challenge is to collect the necessary data.
+I wish to produce the same kind of application using real data from a local university. Such a platform could be used by school counsellors and academic advisors to predict a student's final mark and offer counselling or help before it is too late. The only challenge is to collect the necessary data.
