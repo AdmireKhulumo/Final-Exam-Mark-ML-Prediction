@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31e02422-4b28-4695-bae0-0a925805dffc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="f63302a4-c27e-4c94-9056-ffca3542eee7" />
+  <component name="ProjectId" id="1icLs83M9ofwqnlDYFxRlrAi9Ye" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="flaskAPI" type="Python.FlaskServer">
+      <module name="flaskAPI" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31e02422-4b28-4695-bae0-0a925805dffc" name="Default Changelist" comment="" />
+      <created>1602202136275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602202136275</updated>
+      <workItem from="1602202163918" duration="4457000" />
+      <workItem from="1602253753355" duration="1649000" />
+      <workItem from="1603153857826" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1074" height="280" key="GridCell.Tab.0.bottom" timestamp="1602321809191">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1074" height="280" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1602321809191" />
+    <state width="1074" height="280" key="GridCell.Tab.0.center" timestamp="1602321809190">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1074" height="280" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1602321809190" />
+    <state width="1074" height="280" key="GridCell.Tab.0.left" timestamp="1602321809189">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1074" height="280" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1602321809189" />
+    <state width="1074" height="280" key="GridCell.Tab.0.right" timestamp="1602321809191">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1074" height="280" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1602321809191" />
+    <state x="203" y="87" key="SettingsEditor" timestamp="1602281423010">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="203" y="87" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1602281423010" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flaskAPI$flaskAPI.coverage" NAME="flaskAPI Coverage Results" MODIFIED="1602281442530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
